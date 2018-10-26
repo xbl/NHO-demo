@@ -1,0 +1,16 @@
+{
+  "name": "@xbl/unit_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "mocha": "^5.2.0"
+  }
+}
